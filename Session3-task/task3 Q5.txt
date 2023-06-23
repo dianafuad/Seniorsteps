@@ -1,0 +1,53 @@
+Q5-Answer the following questions [6 statements 6 marks]
+
+1) What is the difference between Primary key and unique constraint in table?
+
+-The primary key will not accept NULL values whereas the Unique key can accept NULL values.
+-A table can have only one primary key whereas there can be multiple unique keys on a table.
+-A Clustered index is automatically created when a primary key is defined whereas a Unique key generates the non-clustered index.
+-A Primary Key can be a Unique Key, but a Unique Key cannot be a primary key
+
+******************************************
+
+2) What is the difference between Clustered and non-clustered index?
+  *Clustered index:
+  	-A clustered index is used to define the order or to sort the table or arrange the data by alphabetical order just like a dictionary.
+ 	-It is faster than a non-clustered index.
+  	-It demands less memory to execute the operation
+  	-It permits you to save data sheets in the leaf nodes of the index.
+ 	-A single table can consist of a sole cluster index.
+ 	-It has the natural ability to store data on the disk
+
+  *non-clustered index:
+	-A non-clustered index collects the data at one place and records at another place.
+	-It is slower than the clustered index.
+	-It demands more memory to execute the operations.
+	-It never saves data sheets in the leaf nodes of the index.
+	-It can consist of multiple non-clustered indexes.
+	-It does not have the natural strength to store data on the disk.
+
+******************************************
+3) What is collation in SQL?
+
+Collations in SQL Server provide sorting rules, case, and accent sensitivity properties to data. A collation defines bit patterns that represent each character in metadata of database. SQL Server supports storing objects that have different collations in database. The options associated with collation are mentioned below :
+
+Case-sensitive (_CS)
+Accent-sensitive (_AS)
+Kana-sensitive (_KS)
+Width-sensitive (_WS)
+Variation-selector-sensitive (_VSS)a
+Binary (_BIN)
+Binary-code point (_BIN2)
+
+******************************************
+4) What is the uniqueidentifier datatype in SQL?
+
+	-The UNIQUEIDENTIFIER data type is a 16-byte GUID*.
+	-This data type is used as primary key alternative to IDENTITY columns.
+	-UNIQUEIDENTIFIER is globally unique, whereas IDENTITY is unique within a table.
+	-UNIQUEIDENTIFIER values can be generated with NEWID or NEWSEQUENTIALID functions.
+
+******************************************
+
+5) What is SQL Azure?
+Azure SQL Database is a relational database(RDBMS) service provided by Microsoft Azure that is widely used by developers when creating new applications in the cloud. It is managed completely by Microsoft and is a highly scalable platform-as-a-service (PaaS) designed especially for cloud applications. Here, we create a managed database server in the cloud and use the server to deploy our database. The server is a logical construct that acts as the central administration point for pooled databases or multiple logins, auditing rules, threat detection policy, and failover groups.
