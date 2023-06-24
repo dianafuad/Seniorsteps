@@ -1,0 +1,15 @@
+D:\senior steps course\projects\Csharp\session1Task\bin\Debug\net6.0\session1Task.exe
+D:\senior steps course\projects\Csharp\session1Task\bin\Debug\net6.0\session1Task.deps.json
+D:\senior steps course\projects\Csharp\session1Task\bin\Debug\net6.0\session1Task.runtimeconfig.json
+D:\senior steps course\projects\Csharp\session1Task\bin\Debug\net6.0\session1Task.dll
+D:\senior steps course\projects\Csharp\session1Task\bin\Debug\net6.0\session1Task.pdb
+D:\senior steps course\projects\Csharp\session1Task\obj\Debug\net6.0\session1Task.csproj.AssemblyReference.cache
+D:\senior steps course\projects\Csharp\session1Task\obj\Debug\net6.0\session1Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\senior steps course\projects\Csharp\session1Task\obj\Debug\net6.0\session1Task.AssemblyInfoInputs.cache
+D:\senior steps course\projects\Csharp\session1Task\obj\Debug\net6.0\session1Task.AssemblyInfo.cs
+D:\senior steps course\projects\Csharp\session1Task\obj\Debug\net6.0\session1Task.csproj.CoreCompileInputs.cache
+D:\senior steps course\projects\Csharp\session1Task\obj\Debug\net6.0\session1Task.dll
+D:\senior steps course\projects\Csharp\session1Task\obj\Debug\net6.0\refint\session1Task.dll
+D:\senior steps course\projects\Csharp\session1Task\obj\Debug\net6.0\session1Task.pdb
+D:\senior steps course\projects\Csharp\session1Task\obj\Debug\net6.0\session1Task.genruntimeconfig.cache
+D:\senior steps course\projects\Csharp\session1Task\obj\Debug\net6.0\ref\session1Task.dll
